@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋, I'm Abubakar Saddique</h1>
 
-💫 About Me: I am Abubakar, a Data Maestro with over 5 years of experience in Python, cloud environments (AWS/Azure), and data integration, I specialize in designing and implementing robust solutions. My expertise lies in constructing efficient Data/ML-powered pipelines, contributing to the success of projects across various industries.<br><br>- 🔭 I’m currently working on different projects related to Data Engineering/Machine Learning<br>- 🌱 Exploring Life<br>- 🤔 I value constructive feedback. If you come across any flaws or areas for improvement in my repositories, I'd greatly appreciate your insights. Let's learn and grow together! <br>- 💬 Ask me about **Data engineering, Data warehouse, Databases, Data pipelines, Data infrastructure**<br>- 
+💫 About Me: I am Abubakar, a Data Maestro with over 5 years of experience in Python, cloud environments (AWS/Azure), and data integration, I specialize in designing and implementing robust solutions. My expertise lies in constructing efficient Data/ML-powered pipelines, contributing to the success of projects across various industries.<br><br>- 🔭 I’m currently working on different projects related to Data Engineering/Machine Learning<br>- 🌱 Exploring Life<br>- 🤔 I value constructive feedback. If you come across any flaws or areas for improvement in my repositories, I'd greatly appreciate your insights. Let's learn and grow together! <br>- 💬 Ask me about **Data engineering, Data warehouse, Databases, Data pipelines, Data infrastructure**<br> 
 
 
 
@@ -23,7 +23,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-abubakar-saddique&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
