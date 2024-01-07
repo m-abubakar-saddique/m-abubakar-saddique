@@ -2,7 +2,11 @@
 
 💫 About Me: I am Abubakar, a Data Maestro with over 5 years of experience in Python, cloud environments (AWS/Azure), and data integration, I specialize in designing and implementing robust solutions. My expertise lies in constructing efficient Data/ML-powered pipelines, contributing to the success of projects across various industries.<br><br>- 🔭 I’m currently working on different projects related to Data Engineering/Machine Learning<br>- 🌱 Exploring Life<br>- 🤔 I value constructive feedback. If you come across any flaws or areas for improvement in my repositories, I'd greatly appreciate your insights. Let's learn and grow together! <br>- 💬 Ask me about **Data engineering, Data warehouse, Databases, Data pipelines, Data infrastructure**<br>- 
 
+
+
 ## 🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-abubakar-saddique&margin-w=30" alt="Abubakar Saddique" /></a> </p>
+
 ![](https://github-profile-trophy.vercel.app/?username=m-abubakar-saddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
