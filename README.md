@@ -21,7 +21,7 @@
 
 <!--START_SECTION:badges-->
 [![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
-[![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
+[![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
 [![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
 
 <!--END_SECTION:badges-->
