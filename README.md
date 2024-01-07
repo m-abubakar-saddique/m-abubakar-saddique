@@ -20,7 +20,7 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Data Engineer Associate](/media/learn/certification/badges/microsoft-certified-associate-badge.svg)]([http://www.credly.com/badges/212394bc-88cf-486b-8173-5352bdcd2279 "Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/89ED5B22EA7BE216?sharingId=E14F084344F10A2B)")
+[![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
 
 <!--END_SECTION:badges-->
 
