@@ -23,7 +23,7 @@
 [![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](http://www.credly.com/badges/805dad96-49d0-49f9-bf91-230bdb11b59c "Astronomer Certification for Apache Airflow Fundamentals")
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/89ED5B22EA7BE216?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Engineer Associate")
 [![Microsoft Certified: Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/F1FA6ABE4E676E6C?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Scientist Associate")
-[![Microsoft Certified: Azure Data Scientist Associate](https://templates.images.credential.net/16491856424607350801669276089387.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/F1FA6ABE4E676E6C?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Scientist Associate")
+[![Microsoft Certified: Azure Data Scientist Associate](https://templates.images.credential.net/size/110x110/16491856424607350801669276089387.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/F1FA6ABE4E676E6C?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Scientist Associate")
 
 <!--END_SECTION:badges-->
 
