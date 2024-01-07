@@ -24,6 +24,7 @@
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/89ED5B22EA7BE216?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Engineer Associate")
 [![Microsoft Certified: Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-gb/AbubakarSaddique-8493/F1FA6ABE4E676E6C?sharingId=E14F084344F10A2B "Microsoft Certified: Azure Data Scientist Associate")
 [![Databricks Certified Associate Developer for Apache Spark 3.0](certifications/Databricks_Associate_Developer_Apache_Spark.png)](https://credentials.databricks.com/fc40e5df-fa1f-421f-8488-8160aa74bcef "Databricks Certified Associate Developer for Apache Spark 3.0")
+[![Databricks Certified Associate Developer for Apache Spark 3.0](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://credentials.databricks.com/fc40e5df-fa1f-421f-8488-8160aa74bcef "Databricks Certified Associate Developer for Apache Spark 3.0")
 
 <!--END_SECTION:badges-->
 
