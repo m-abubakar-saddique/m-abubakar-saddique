@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm Abubakar Saddique</h1>
+## Hey! 👋, I'm Abubakar Saddique
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/m-abubakar-saddique/m-abubakar-saddique?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/m-abubakar-saddique?label=GitHub%20followers)
