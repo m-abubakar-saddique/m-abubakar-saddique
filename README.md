@@ -1,7 +1,14 @@
 <h1 align="center">Hey! 👋, I'm Abubakar Saddique</h1>
 
-💫 About Me: I am Abubakar, a Data Maestro with over 5 years of experience in Python, cloud environments (AWS/Azure), and data integration, I specialize in designing and implementing robust solutions. My expertise lies in constructing efficient Data/ML-powered pipelines, contributing to the success of projects across various industries.<br><br>- 🔭 I’m currently working on different projects related to Data Engineering/Machine Learning<br>- 🌱 Exploring Life<br>- 🤔 I value constructive feedback. If you come across any flaws or areas for improvement in my repositories, I'd greatly appreciate your insights. Let's learn and grow together! <br>- 💬 Ask me about **Data engineering, Data warehouse, Databases, Data pipelines, Data infrastructure**<br>- 📫 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/m-abubakar-saddique/) or [Twitter](https://twitter.com/Abubaka70799862)
+💫 About Me: I am Abubakar, a Data Maestro with over 5 years of experience in Python, cloud environments (AWS/Azure), and data integration, I specialize in designing and implementing robust solutions. My expertise lies in constructing efficient Data/ML-powered pipelines, contributing to the success of projects across various industries.<br><br>- 🔭 I’m currently working on different projects related to Data Engineering/Machine Learning<br>- 🌱 Exploring Life<br>- 🤔 I value constructive feedback. If you come across any flaws or areas for improvement in my repositories, I'd greatly appreciate your insights. Let's learn and grow together! <br>- 💬 Ask me about **Data engineering, Data warehouse, Databases, Data pipelines, Data infrastructure**<br>- 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m-abubakar-saddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=m-abubakar-saddique&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abubakar.saddique.94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-abubakar-saddique) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AbubakarSaddique8156) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11464508) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abubaka70799862) 
@@ -13,8 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abubakar-saddique&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-abubakar-saddique&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-abubakar-saddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -22,7 +28,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m-abubakar-saddique&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=m-abubakar-saddique&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
